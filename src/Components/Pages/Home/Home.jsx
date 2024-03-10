@@ -1,3 +1,4 @@
+import MainSection from "../MainSection/MainSection";
 import SideBar from "../Sidebar/SideBar";
 
 const Home = () => {
@@ -8,7 +9,9 @@ const Home = () => {
                 <SideBar></SideBar>
             </div>
 
-            <div className="main col-span-9">cc</div>
+            <div className="main col-span-9">
+                <MainSection></MainSection>
+            </div>
 
         </div>
     );
