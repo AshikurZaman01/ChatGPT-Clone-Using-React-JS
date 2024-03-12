@@ -10,8 +10,8 @@ const Chats = () => {
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta molestias beatae est asperiores consequuntur optio, rem sequi minima neque distinctio sunt omnis a deleniti suscipit accusamus corporis inventore! Corporis, commodi.</p>
             </div>
 
-            <div className="chat flex items-start gap-10">
-                <img src={logo}  className="rounded w-[25px]" alt="" />
+            <div className="chat bot flex items-start gap-10">
+                <img src={logo} className="rounded w-[25px]" alt="" />
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta molestias beatae est asperiores consequuntur optio, rem sequi minima neque distinctio sunt omnis a deleniti suscipit accusamus corporis inventore! Corporis, commodi.</p>
             </div>
 
