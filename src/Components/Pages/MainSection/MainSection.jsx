@@ -2,6 +2,9 @@ import Chats from "./Chats";
 import Footer from "./Footer";
 
 const MainSection = () => {
+
+
+
     return (
         <div className="container pt-5">
 
